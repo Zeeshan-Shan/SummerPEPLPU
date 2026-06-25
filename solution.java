@@ -30,12 +30,16 @@ public class solution {
 
         // LOOPS
 
-        int n=5;
-        for(int i=1; i<=n;i++){
-            for(int j=1; j<=n; j++){
-            System.out.print("* ");
-        }
-        System.out.println("Hello");
-    }
+    //     int n=5;
+    //     for(int i=1; i<=n;i++){
+    //         for(int j=1; j<=n; j++){
+    //         System.out.print("* ");
+    //     }
+    //     System.out.println("Hello");
+    // }
+
+
+    // leetcode
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
     }
 }
